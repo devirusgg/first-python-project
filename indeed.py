@@ -38,3 +38,5 @@ def extract_indeed_jobs(last_page):
         print( "title: "+ title +"\n" + "company: " + company +"\n\n" )
 
     return jobs
+
+    #깃허브 테스트 주석
