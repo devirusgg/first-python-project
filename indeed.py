@@ -45,3 +45,4 @@ def extract_indeed_jobs(last_page):
         #깃허브 테스트 주석 4
         #깃허브 테스트 주석 5
         #깃허브 테스트 주석 6
+        #깃허브 테스트 주석 7
